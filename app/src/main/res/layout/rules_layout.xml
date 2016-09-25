@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="horizontal" android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_1"/>
+
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="100 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="horizontal" android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_5"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="50 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_1"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_1"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_1"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="300 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_2"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_2"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_2"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="200 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="horizontal" android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_3"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_3"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_3"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="300 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="horizontal" android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_4"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_4"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_4"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="400 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="horizontal" android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_5"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_5"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_5"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="500 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="horizontal" android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_6"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_6"/>
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/ic_6"/>
+          <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="600 points"
+              android:gravity="center_vertical|center" />
+     </LinearLayout>
+     <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="Six of Any: 3000\nTwo Triplets: 2500\nFive of Any: 2000"
+              android:gravity="center_vertical|center" />
+     <kyledmellander.farkle.FontTextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textSize="20sp"
+              android:textColor="@color/black"
+              android:text="Four of a kind with Pair: 1500\nThree Pair: 1500\nStraight: 1500"
+              android:gravity="center_vertical|center" />
+</LinearLayout>

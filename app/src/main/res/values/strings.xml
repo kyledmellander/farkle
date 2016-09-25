@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Farkle</string>
+    <string name="numPlayers">Number of Players</string>
+</resources>
